@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0C978457-340D-417C-ACC1-C2F339946EBC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BDOPayrollReporter.Business</RootNamespace>
+    <AssemblyName>BDOPayrollReporter.Business</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="Encryption.cs" />
+    <Compile Include="Enums\OperacionSiVale.cs" />
+    <Compile Include="Enums\ReportName.cs" />
+    <Compile Include="Enums\StringEnum.cs" />
+    <Compile Include="Enums\StringValueAttribute.cs" />
+    <Compile Include="HexEncoding.cs" />
+    <Compile Include="Objects\Collections\EmpleadoList.cs" />
+    <Compile Include="Objects\Empleado.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLDataManager.cs" />
+    <Compile Include="TextRenderer.cs" />
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQLQueries\Functions\RegPatFecha.sql" />
+    <Content Include="SQLQueries\Functions\ufnFormato_In.sql" />
+    <Content Include="SQLQueries\Functions\UTILfn_Split.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_DiferenciasNomina.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_LayoutSiValeAlta_Tepca.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_LayoutSiValeEmision.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_LayoutSiValeSaldo.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_NominaControlCambiosOtros.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_NominaObtenerAcumuladoConcpetosXEmpleado.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_NominaObtenerAcumuladoConcpetosXEmpleadoAbierto.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_NominaObtenerGravadosExentos.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_ReciboNomina.sql" />
+    <Content Include="SQLQueries\StoreProcedures\usp_ReciboNominaEmpledosConEmail.sql" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
