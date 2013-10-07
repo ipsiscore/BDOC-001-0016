@@ -7,3 +7,8 @@ C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\bi
 C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.dll
 C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\Documents\Projects\BDO\BDOC-001-0016\03 EP\03 CO\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\Documents\Projects\BDO\BDOC-001-0016\03 EP\03 CO\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\Documents\Projects\BDO\BDOC-001-0016\03 EP\03 CO\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Projects\BDO\BDOC-001-0016\03 EP\03 CO\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\Documents\Projects\BDO\BDOC-001-0016\03 EP\03 CO\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.pdb
