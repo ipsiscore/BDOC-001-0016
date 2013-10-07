@@ -1,0 +1,9 @@
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.pdb
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\bin\Debug\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter.Business\obj\Debug\BDOPayrollReporter.Business.pdb

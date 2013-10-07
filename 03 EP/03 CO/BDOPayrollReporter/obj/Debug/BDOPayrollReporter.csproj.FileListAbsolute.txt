@@ -1,0 +1,27 @@
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.dll
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.pdb
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.dll
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.pdb
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.cache
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.compiled
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.dll
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.pdb
+C:\Users\Tano\Documents\Visual Studio 2010\Projects\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.dll
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.pdb
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.dll
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.pdb
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\Desktop\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.dll
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.pdb
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.dll
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\bin\BDOPayrollReporter.Business.pdb
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.dll
+C:\Users\Administrador\SkyDrive\Documentos\Proyectos\BDOPayrollReporter\BDOPayrollReporter\obj\Debug\BDOPayrollReporter.pdb
